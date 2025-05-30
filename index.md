@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+title: 欢迎来到brire-ai的首页!
 ---
+这是一个专注于稀土行业交叉AI应用的博客。
